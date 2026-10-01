@@ -2,7 +2,4 @@ streamlit
 pandas
 numpy
 plotly
-nltk
-network
-metplotlib
-
+networkx
